@@ -5,10 +5,10 @@
 const typingText = document.getElementById("typing-text");
 
 const words = [
-    "Frontend Developer",
+    "MERN Stack Developer",
     "Web Developer",
     "Problem Solver",
-    "JavaScript Enthusiast"
+    "Tech Enthusiast"
 ];
 
 let wordIndex = 0;
